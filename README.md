@@ -1,4 +1,5 @@
 # 🌊 Hurricane Sandy Data Sonification Project
+![image](https://github.com/user-attachments/assets/bd54872d-a6f4-4631-8306-71087dbd622e)
 
 ## Overview
 
@@ -21,6 +22,9 @@ My project is a small continuation of this tradition: representing nature throug
 
 - **Data Source**: NOAA data from Sandy Hook, NJ station, collected every 6 minutes on October 28–29, 2012.  
   - Variables: Verified Water Levels, Wind Speed, Wind Gusts, Pressure
+  - <img width="597" alt="image" src="https://github.com/user-attachments/assets/57eb9822-a4c6-4f5a-839f-4d665217667a" />
+    - *Notice the abrupt termination of data collection after the wind gust reached 60 knots😳*
+
 - **Processing Steps**:
   - Wrote a custom Python program to **map** each data variable to **MIDI notes** in the **E minor scale** (chosen for its somber, reflective tone).
   - Imported the generated MIDI tracks into **Logic Pro X** (Digital Audio Workstation).
