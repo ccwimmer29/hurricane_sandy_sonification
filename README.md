@@ -1,6 +1,6 @@
 # 🌊 Hurricane Sandy Data Sonification Project
 ![image](https://github.com/user-attachments/assets/bd54872d-a6f4-4631-8306-71087dbd622e)
-
+[Image Source](https://ccicada.org/2015/01/22/superstorm-sandy-researchers-and-scientists-gather-at-ccicada-to-discuss-what-theyve-learned-from-hurricane-research/)
 ## Overview
 
 This project explores the intersection of **music, data science, and environmental storytelling** through **data sonification**. Using real meteorological data from NOAA collected during Hurricane Sandy's landfall in New Jersey in October 2012, I translated environmental data into music — creating a soundscape that reflects both the beauty and devastation of nature’s power.
